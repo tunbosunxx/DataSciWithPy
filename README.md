@@ -1,3 +1,4 @@
-# DataSciWithPy
-Data Science with Python
-## I want to understand the concept of datascience 
+# Data Sci With Py
+
+Data Science with Python  
+I want to understand the concept of data science
